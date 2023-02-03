@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+.main .logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main .logo .list {
+  margin-top: 10px;
+}
+
+.main .logo .list .aksiya {
+  color: red;
+}
+
+.main2 {
+  height: 70px;
+  background-color: #444444;
+}
+
+.main2 .col-4-catalog {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 70px;
+  width: 350px;
+  background-color: #242424;
+}
+
+.main2 .col-4-catalog i {
+  padding-left: 20px;
+  font-size: 25px;
+  color: white;
+  padding-top: 25px;
+}
+
+.main2 .text p {
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 22px;
+}
+
+.main2 .search {
+  height: 70px;
+  width: 500px;
+}
+
+.main2 .all-col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main2 .col-4-search .search-area {
+  margin-top: 10px;
+  width: 500px;
+  height: 50px;
+}
+
+.main2 .col-4-search .icon1 {
+  padding: 15px;
+  margin-left: -15px;
+  margin-top: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  font-size: 20px;
+  color: black;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+/*# sourceMappingURL=style.css.map */
